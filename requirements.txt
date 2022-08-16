@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+lxml==4.9.1
+pyTelegramBotAPI==4.6.1
+python-telegram-bot==13.13
+selenium==4.4.0
